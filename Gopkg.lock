@@ -1,0 +1,6 @@
+[[projects]]
+  digest = "1:d54f88f75a432af66b0eeaecc22312109e1849904be7bea0fb9d071f482c62f2"
+  name = "github.com/DataDog/datadog-go"
+  packages = ["statsd"]
+  pruneopts = "UT"
+  revision = "a27810dd518c69be741a7fd5d0e39f674f615be8"
